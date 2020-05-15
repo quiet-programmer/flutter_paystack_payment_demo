@@ -1,6 +1,6 @@
 # paystack_example_app
 
-A new Flutter project.
+<img src='https://github.com/quiet-programmer/flutter_paystack_payment_demo/blob/master/ss/paystack.gif' width='300' height='500'>
 
 ## Getting Started
 
