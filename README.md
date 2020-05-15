@@ -1,6 +1,6 @@
 # paystack_example_app
 
-<img src='https://github.com/quiet-programmer/flutter_paystack_payment_demo/blob/master/ss/paystack.gif' width='300' height='500'>
+<img src='https://github.com/quiet-programmer/flutter_paystack_payment_demo/blob/master/ss/paystack.gif' width='300' height='700'>
 
 ## Getting Started
 
