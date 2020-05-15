@@ -1,5 +1,10 @@
 # paystack_example_app
 
+<p> A simple flutter demo application. The app UI is not complex and I may add a nice UI to it soon, just made sure the Payment system is work fine without any error.</p>
+
+# Plugin's
+<a href="https://pub.dev/packages/flutter_paystack"><span style="color: blue">Flutter PayStack</span></a>
+
 <img src='https://github.com/quiet-programmer/flutter_paystack_payment_demo/blob/master/ss/paystack.gif' width='330' height='700'>
 
 ## Getting Started
