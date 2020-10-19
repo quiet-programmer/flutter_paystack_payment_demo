@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
   void initState() {
     super.initState();
     PaystackPlugin.initialize(
-        publicKey: "pk_test_e2d6b10b1cdaa9e9f8a829717363968b9fb9e877");
+        publicKey: "");
   }
 
   Dialog successDialog(context) {
